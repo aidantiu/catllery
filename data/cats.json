@@ -1,0 +1,46 @@
+{
+    "cat" : [
+
+        {
+            "header-picture": "/data/cat-assets/header/stripe.jpg",
+            "name": "Stripe",
+            "pictures": [
+                "data/cat-assets/main-pictures/stripe/stripe1.jpg",
+                "data/cat-assets/main-pictures/stripe/stripe2.jpg",
+                "data/cat-assets/main-pictures/stripe/stripe3.jpg",
+                "data/cat-assets/main-pictures/stripe/stripe4.jpg",
+                "data/cat-assets/main-pictures/stripe/stripe5.jpg",
+                "data/cat-assets/main-pictures/stripe/stripe6.jpg",
+                "data/cat-assets/main-pictures/stripe/stripe7.jpg",
+                "data/cat-assets/main-pictures/stripe/stripe8.jpg",
+                "data/cat-assets/main-pictures/stripe/stripe9.jpg"
+            ]
+        },
+
+        {
+            "header-picture": "/data/cat-assets/header/lucky.jpg",
+            "name": "Lucky",
+            "pictures": [
+                "/data/cat-assets/main-pictures/lucky/lucky1.jpg",
+                "/data/cat-assets/main-pictures/lucky/lucky2.jpg",
+                "/data/cat-assets/main-pictures/lucky/lucky3.jpg",
+                "/data/cat-assets/main-pictures/lucky/lucky4.jpg",
+                "/data/cat-assets/main-pictures/lucky/lucky5.jpg",
+                "/data/cat-assets/main-pictures/lucky/lucky6.jpg",
+                "/data/cat-assets/main-pictures/lucky/lucky7.jpg",
+                "/data/cat-assets/main-pictures/lucky/lucky8.jpg",
+                "/data/cat-assets/main-pictures/lucky/lucky9.jpg"
+            ]
+        },
+
+        {
+            "header-picture": "/data/cat-assets/header/bong.jpg",
+            "name": "Bong",
+            "pictures": [
+                "/data/cat-assets/main-pictures/bong/bong1.jpg",
+                "/data/cat-assets/main-pictures/bong/bong2.jpg",
+                "/data/cat-assets/main-pictures/bong/bong3.jpg"
+            ]
+        }
+    ]
+}
