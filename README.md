@@ -39,6 +39,7 @@ Catllery is built using standard web technologies:
                 "/data/cat-assets/main-pictures/dave-the-magical-cheese-wizard/dave2.jpg"
             ]
 }
+```
 
 
 ## Conclusion
