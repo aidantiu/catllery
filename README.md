@@ -22,7 +22,7 @@ Catllery is built using standard web technologies:
 1. Navigate the workspace and find the **data/cat-assets** folder and you will see two subfolders (header and main-pictures).
 
 2. For the picture header of your loved feline, add the picture in the **data/cat-assets/header**
-> [!NOTE] : use the name of the cat's name. example: dave-the-magical-cheese-wizard.jpg
+> Use the name of the cat's name. example: dave-the-magical-cheese-wizard.jpg
 ```json
 {
     "header-picture": "/data/cat-assets/header/dave-the-magical-cheese-wizard.jpg",
@@ -31,7 +31,7 @@ Catllery is built using standard web technologies:
 ```
 
 3. For the main-pictures of your loved feline, add the picture in the **data/cat-assets/header**
-> [!NOTE] : use the name of the cats name. example: dave-the-magical-cheese-wizard.jpg
+> Use the name of the cats name. example: dave-the-magical-cheese-wizard.jpg
 ```json
 {
     "pictures": [
